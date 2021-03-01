@@ -33,7 +33,7 @@ The goal in this phrase is to achieve CMC-schema tagging with a reasonal F score
     - Francis & Hunston (1992) 
     - CMC schema (Herring, Das, & Penumarthy, 2005)
 
-# 3. Step 3: Developing a semi-auto learning framework user-friendly to sociolinguists
+# 3. Step 3: Developing a semi-supervised learning framework user-friendly to sociolinguists
 
 - a user can directly use an already fine-tuned pre-trained model on CMC and three dialog act tagsets
 
