@@ -1,5 +1,5 @@
 <!-- ![icon](https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png) -->
-<img src="https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png" width="100">
+<img src="https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png" width="200">
 
 # speech-acts-classifier
 
