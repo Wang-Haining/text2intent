@@ -1,3 +1,4 @@
+![alt text](https://github.com/Wang-Haining/text2intention/img/text2intention.png?raw=true)
 # speech-acts-classifier
 
 A speech acts classifier based on pre-trained models.
