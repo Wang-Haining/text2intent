@@ -1,4 +1,5 @@
-![icon](https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png)
+<!-- ![icon](https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png) -->
+<img src="https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png" width="100">
 # speech-acts-classifier
 
 A speech acts classifier based on pre-trained models.
