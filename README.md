@@ -1,7 +1,7 @@
 <!-- ![icon](https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png) -->
 <img src="https://github.com/Wang-Haining/text2intention/blob/master/img/text2intention.png" width="200">
 
-# Text2Intention
+# Text2Intent
 
 A speech acts classifier based on pre-trained models.
 
@@ -28,7 +28,7 @@ A speech acts classifier based on pre-trained models.
 
 # 2. Step 2: A customized algorithm classifying a speech acts tagset
 
-The goal in this phrase is to achieve CMC-schema tagging with a reasonal F score. Because assigning three tags (perspective/bona fide/intention) is a multi-task learning and more challenging than other tasks.
+The goal in this phrase is to achieve CMC-schema tagging with a reasonal F score. Because assigning three tags (perspective/bona fide/intent) is a multi-task learning and more challenging than other tasks.
 
 - candidate tagsets:
     - Austin (1962)
